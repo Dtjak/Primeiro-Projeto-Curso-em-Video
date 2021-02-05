@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro projeto curso em vídeo Git e GitHub
+# Olá, Mundo
+ Primeiro projeto Curso em Vídeo - Git e GitHub.
