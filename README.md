@@ -1,9 +1,15 @@
 # Linguagem Markdown - Curso em Vídeo
  Primeiro projeto *Curso em Vídeo* - **Git e GitHub**.
  
+***
+<!-- Cria linha horizontal -->
+
 # Nível 1
 ## Nível 2
 ### Nível 3
+
+---
+<!-- Tb cria linha horizontal -->
 
 ### Destaques de trechos
 **Formas** de colocar trechos em __negrito__
@@ -14,14 +20,15 @@ _Formas_ de colocar trechos em *itálico*
 
 __*Pode-se*__ **_misturar_** ~~**_marcações_**~~
 
+---
+
 ### Lista Ordenada
 1. Teste 1 <!-- Basta ser um número seguido de um ponto para criar um item de uma list -->
    1. Subitem 1 <!-- Para criar um subitem, basta dar 3 espaços no início -->
    1. Subitem 2
 8. Teste 2 <!-- Como é um número seguido de um ponto, um item será criado e seguirá a ordem da lista, mesmo que o número utilizado não for o seguinte-->
 
-*** 
-<!-- Cria linha horizontal -->
+---
 
 ### Lista não Ordenada
 * Teste 1
@@ -30,7 +37,6 @@ __*Pode-se*__ **_misturar_** ~~**_marcações_**~~
 - Teste 2
 
 --- 
-<!-- Cria linha horizontal -->
 
 ### Lista de Tarefas
 - [x] Teste
