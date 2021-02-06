@@ -81,6 +81,8 @@ System.out.println("Soma de 1 a "+n+": "+soma);
 
 ---
 
-Incluindo emojis
-:open_mouth:
+### Emojis
+
+:open_mouth: :smile:
+
 [Clique aqui para ver comandos para outros emojis](https://github.com/ikatyang/emoji-cheat-sheet)
