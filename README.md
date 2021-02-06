@@ -29,3 +29,42 @@ Lista não Ordenada Teste:
 Lista de Tarefas
 - [x] Teste
 - [ ] Organizar
+
+---
+
+Colocando imagens e links
+
+![Git Logo](https://sprezzatech.com/wiki/images/thumb/2/29/Git-Logo-2Color.png/400px-Git-Logo-2Color.png)
+<!-- recomendado utilizar imagens de no máximo 400 px -->
+
+[Acesse a aula](https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=10&ab_channel=CursoemV%C3%ADdeo)
+
+---
+
+Tabelas
+Num | Nome | Nota
+---|---|---|
+1 | Danilo | 8
+2 | Maria | 9
+
+---
+
+Citação de comandos:
+Ex: Alguém poderia me explicar para que serve o comando `document.geElementById()`
+
+Ex2: Alguém poderia me indicar se o seguinte trecho de código está correto:
+```
+Scanner input = new Scanner(System.in);
+int n = input.nextInt();
+int soma = 0;
+for(int i = n; i>0; i--){
+ soma+=i;
+}
+System.out.println("Soma de 1 a "+n+": "+soma);
+```
+
+---
+
+Incluindo emojis
+:open_mouth:
+[Clique aqui para ver comandos para outros emojis](https://github.com/ikatyang/emoji-cheat-sheet)
