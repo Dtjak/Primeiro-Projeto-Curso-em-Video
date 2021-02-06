@@ -1,4 +1,2 @@
 # Olá, Mundo
- Primeiro projeto Curso em Vídeo - Git e GitHub.
-
-Add teste
+ Primeiro projeto *Curso em Vídeo* - **Git e GitHub**.
