@@ -1,5 +1,5 @@
-# Linguagem Markdown - Curso em Vídeo
- Primeiro projeto *Curso em Vídeo* - **Git e GitHub**.
+# Markdown_Curso-em-Vídeo
+Primeiro projeto desenvolvido durante o curso de Git e GitHub do [Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
  
 ***
 <!-- Cria linha horizontal -->
